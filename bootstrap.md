@@ -1,0 +1,1 @@
+http://lipis.github.io/bootstrap-sweetalert/
