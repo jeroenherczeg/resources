@@ -7,3 +7,6 @@
 # Email
 * http://mxtoolbox.com
 * https://www.mail-tester.com
+
+# Docker
+* http://panamax.io
