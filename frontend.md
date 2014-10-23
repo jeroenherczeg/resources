@@ -1,3 +1,5 @@
+* https://github.com/clubdesign/floatlabels.js
+
 # Placeholders
 * http://placezombie.com
 * http://placehold.it
