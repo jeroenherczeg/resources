@@ -1,4 +1,5 @@
 * https://github.com/clubdesign/floatlabels.js
+* https://github.com/RobinHerbots/jquery.inputmask
 
 # Placeholders
 * http://placezombie.com
