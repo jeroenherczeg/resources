@@ -3,6 +3,8 @@
 * http://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25
 * http://www.slideshare.net/cirpo/newp
 
+# Certification
+* https://github.com/jmolivas/symfony-certification-guide
 
-Bundles
+# Bundles
 * https://github.com/SymfonyContrib/FileFieldBundle
