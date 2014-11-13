@@ -10,3 +10,6 @@
 
 # Docker
 * http://panamax.io
+
+# Gitlab
+* http://doc.gitlab.com/ee/integration/jira.html
