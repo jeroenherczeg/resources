@@ -13,3 +13,6 @@
 
 # Gitlab
 * http://doc.gitlab.com/ee/integration/jira.html
+
+# Grafana, Statds, InfuxDB
+* http://www.symantec.com/connect/blogs/metrics-cocktail-statsdinfluxdbgrafana
