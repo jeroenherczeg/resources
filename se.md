@@ -16,3 +16,4 @@
 
 # Grafana, Statds, InfuxDB
 * http://www.symantec.com/connect/blogs/metrics-cocktail-statsdinfluxdbgrafana
+* http://www.philipotoole.com/influxdb-and-grafana-howto/
