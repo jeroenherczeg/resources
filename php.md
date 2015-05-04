@@ -1,1 +1,3 @@
-http://www.phpbench.com
+- http://www.phpbench.com
+- http://www.phptherightway.com
+- http://blog.fortrabbit.com/php-heads
