@@ -4,6 +4,7 @@
 * http://tech.namshi.com
 * https://blog.engineyard.com/
 * https://labs.spotify.com/
+* https://developer.atlassian.com/blog/
 
 # Frontend
 * http://benfrain.com/blog/
