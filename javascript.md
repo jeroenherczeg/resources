@@ -2,7 +2,11 @@
 * http://jsrocks.org/
 * https://egghead.io/
 * https://facebook.github.io/react/
+* [JS: The right way](http://jstherightway.org/)
+* [Essential JS Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
+# Frameworks
+* [AngularJS](https://angularjs.org/)
 
 # Compilers
 * http://coffeescript.org/
